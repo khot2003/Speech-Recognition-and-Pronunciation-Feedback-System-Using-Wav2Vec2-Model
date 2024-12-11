@@ -42,6 +42,26 @@ Students learning English as a second language often face challenges in accurate
 
 
 ---
+## Prerequisites
+
+Before running the code, ensure you have the following Python packages installed:
+
+### Python Version
+
+- Python 3.7 or higher is required.
+
+### Required Python Libraries
+
+You need to install the following libraries for the code to work correctly:
+
+- `torch` - PyTorch library
+- `torchaudio` - Audio processing library
+- `transformers` - Hugging Face transformers library
+- `phonemizer` - Phonemizer for phoneme conversion
+- `gtts` - Google Text-to-Speech for audio feedback
+- `jiwer` - For calculating Word Error Rate (WER) and Character Error Rate (CER)
+
+---
 
 ### RESULTS:
 
