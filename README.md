@@ -1,8 +1,5 @@
 # Speech-Recognition-and-Pronunciation-Feedback-System-Using-Wav2Vec2-Model
 
-Here's a complete **`README.md`** file for your GitHub repository, incorporating the introduction, motivation, problem statement, and objectives that you've provided.
-
-
 
 ---
 
@@ -34,7 +31,6 @@ Students learning English as a second language often face challenges in accurate
 ---
 
 
----
 
 ### **Technologies Used**
 
@@ -45,22 +41,12 @@ Students learning English as a second language often face challenges in accurate
 - **Torchaudio**: For loading and processing audio data.
 
 
+---
 
-
-```
+### RESULTS:
 
 3. **Input**: Upload the student's audio file and enter the reference text (the correct pronunciation).
 4. **Output**: The app will display the transcribed text, provide pronunciation feedback, and generate an audio file of the correct pronunciation.
-
----
-
-### **Sample Output**
-
-After the student uploads their audio, the following will be displayed:
-- **Transcription of Spoken Audio**: The text transcribed from the student’s audio.
-- **Phoneme-level Feedback**: A comparison of predicted phonemes with reference phonemes.
-- **WER and CER Scores**: Performance metrics showing the transcription accuracy.
-- **Audio Feedback**: An audio file of the correct pronunciation for the student to listen to.
 
 
 
